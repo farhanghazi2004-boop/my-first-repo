@@ -1,2 +1,2 @@
 # my-first-repo
-author name - farhan gazi
+author name - farhan gazi(moquim)
